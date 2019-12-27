@@ -1,14 +1,16 @@
 # Introduction
-N/A
+Under development.
+
+This is a PHP based Markdown (https://www.markdownguide.org/) parser.
 
 # Usage
 N/A
 
 # Notes
-N/A
+Syntax derived from https://www.markdownguide.org/cheat-sheet/
 
 # Requirements & Dependencies
 N/A
 
 # Previews
-![preview image](https://via.placeholder.com/350x240)
+N/A
