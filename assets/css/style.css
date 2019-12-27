@@ -1,0 +1,22 @@
+/*
+	Produced 2019
+	By https://amattu.com/links/github
+	Copy Alec M.
+	License GNU Affero General Public License v3.0
+*/
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 5px;
+	font-family: sans-serif;
+}
+
+code {
+	background: #f2f2f2;
+	padding: 10px;
+	border-radius: 6px;
+}
