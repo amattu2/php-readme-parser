@@ -9,7 +9,7 @@
 echo "<html><head><link rel='stylesheet' type='text/css' href='assets/css/style.css' /></head>";
 
 // Files
-require(dirname(__FILE__) . "/classes/mdparser.class.php");
+require(dirname(__FILE__) . "/assets/php/classes/mdparser.class.php");
 
 // Test Cases
 //test("parseString", MDParser::parseString("test string"), "test string", true);
