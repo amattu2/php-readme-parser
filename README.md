@@ -9,11 +9,15 @@ Include the class file
 require(dirname(__FILE__) . "/classes/mdparser.class.php");
 ```
 
+### Supported Tags
+- <H1> to <H6>
+- <code>
+
 ### Parsing Strings
 If you have already grabbed the contents of a markdown file, you can parse the input with `MDParser::parseString`
 
 ```PHP
-MDParser::parseString("# Hey!")
+MDParser::parseString("# Hey!");
 ```
 
 ### Parsing Files
